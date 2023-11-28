@@ -1,0 +1,106 @@
+[
+  {
+    "isola": "Whiskey Peak",
+    "evento": "Zoro sconfigge i membri della Baroque Works e difende l'isola dagli attacchi nascosti",
+    "sconfitta_avversari": [
+      {
+        "nome": "Mr. 8",
+        "modo_sconfitta": "Taglio rapido con la Wado Ichimonji"
+      },
+      {
+        "nome": "Miss Monday",
+        "modo_sconfitta": "Tecnica di spada a tre spade"
+      }
+    ]
+  },
+  {
+    "isola": "Alabasta",
+    "evento": "Zoro combatte contro Mr. 1 durante la missione per salvare il regno",
+    "sconfitta_avversari": [
+      {
+        "nome": "Mr. 1",
+        "modo_sconfitta": "Assesta colpi precisi fino a trovare il punto debole"
+      }
+    ]
+  },
+  {
+    "isola": "Enies Lobby",
+    "evento": "Zoro affronta il cyborg CP9 Kaku per proteggere i suoi compagni",
+    "sconfitta_avversari": [
+      {
+        "nome": "Kaku",
+        "modo_sconfitta": "Utilizzo della tecnica Asura e abilit\u00c3\u00a0 di spada avanzate"
+      }
+    ]
+  },
+  {
+    "isola": "Skypiea",
+    "evento": "Zoro si scontra con gli Shandians per garantire la pace sull'isola del cielo",
+    "sconfitta_avversari": [
+      {
+        "nome": "Shandian Warrior Aisa",
+        "modo_sconfitta": "Dimostrazione di abilit\u00c3\u00a0 di spada superiore"
+      }
+    ]
+  },
+  {
+    "isola": "Water 7",
+    "evento": "Zoro duella con il vice ammiraglio della Marina, T-Bone, durante la saga di Water 7 e Enies Lobby",
+    "sconfitta_avversari": [
+      {
+        "nome": "T-Bone",
+        "modo_sconfitta": "Dimostrazione di abilit\u00c3\u00a0 di spada superiore"
+      }
+    ]
+  },
+  {
+    "isola": "Sabaody Archipelago",
+    "evento": "Zoro si trova coinvolto nella battaglia con Bartholomew Kuma, un membro del Cipher Pol 9",
+    "sconfitta_avversari": [
+      {
+        "nome": "Bartholomew Kuma",
+        "modo_sconfitta": "Utilizzo delle tre spade contro il PX-0"
+      }
+    ]
+  },
+  {
+    "isola": "Punk Hazard",
+    "evento": "Zoro sconfigge Monet, uno dei subordinati di Caesar Clown, per proteggere i suoi compagni",
+    "sconfitta_avversari": [
+      {
+        "nome": "Monet",
+        "modo_sconfitta": "Taglio decisivo con la Sandai Kitetsu"
+      }
+    ]
+  },
+  {
+    "isola": "Dressrosa",
+    "evento": "Zoro affronta Pica, uno degli ufficiali di alto rango di Donquixote Doflamingo, durante la saga di Dressrosa",
+    "sconfitta_avversari": [
+      {
+        "nome": "Pica",
+        "modo_sconfitta": "Utilizzo della tecnica Ittoryu Iai: Shishi Sonson"
+      }
+    ]
+  },
+  {
+    "isola": "Whole Cake Island",
+    "evento": "Zoro si scontra con Charlotte Oven, uno dei comandanti della Big Mom Pirates, durante la missione a Whole Cake Island",
+    "sconfitta_avversari": [
+      {
+        "nome": "Charlotte Oven",
+        "modo_sconfitta": "Dimostrazione di abilit\u00c3\u00a0 di spada superiore"
+      }
+    ]
+  },
+  {
+    "isola": "Wano Country",
+    "evento": "Zoro duella con Kyoshiro, un misterioso samurai di Wano, nel corso della saga di Wano Country",
+    "sconfitta_avversari": [
+      {
+        "nome": "Kyoshiro",
+        "modo_sconfitta": "Utilizzo della tecnica Ittoryu Ogi: Sanzen Sekai"
+      }
+    ]
+  }
+]
