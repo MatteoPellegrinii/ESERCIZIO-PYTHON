@@ -69,7 +69,7 @@ if Domandamodifica.lower() == 'si':
     aggiungi_evento(avventure_di_zoro, nuova_avventura)
     # Stampa il contenuto aggiornato
     print("Contenuto del JSON dopo l'aggiunta di un nuovo evento:")
-    stampa_contenuto(avventure_di_zoro)    
+    stampa_contenuto(avventure_di_zoro)
 else:
     print('Grazie')
-    
+
